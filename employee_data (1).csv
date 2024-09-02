@@ -1,0 +1,9 @@
+﻿PayZone,Zone C,,,
+,,,,
+Count of EmpID,Column Labels,,,
+Row Labels,Full-Time,Part-Time,Temporary,Grand Total
+Exceeds,33,38,42,113
+Fully Meets,253,245,249,747
+Needs Improvement,20,26,19,65
+PIP,6,11,11,28
+Grand Total,312,320,321,953
